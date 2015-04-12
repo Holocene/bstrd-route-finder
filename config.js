@@ -10,5 +10,7 @@
     redirectUri: 'http://holocene.github.io/bstrd-route-finder/#/login-return',
     clientId: '0a57577c6b344ffda738a81c01c56b4b',
 
+	loginContacts: "Nashh Kadavr or Dwaigon Aumer",
+	
     homeSystemId: 30002756 
 }
